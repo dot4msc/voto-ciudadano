@@ -1,3 +1,6 @@
+# Voto Ciudadano
+Videojuego inspirado en la gobernatura de Samuel García de Movimiento Ciudadano.
+
 ## Licensing / Licencia
 
 Source code in this repository is licensed under the MIT License.
